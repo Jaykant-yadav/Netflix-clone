@@ -1,5 +1,11 @@
+
 .para{
      background-color:#d65db1;
      color:#845ec2;
-     border: 3px solid black;
+  border: 3px solid black
+h1 {
+    color: red;
+    display: inline;
+    background-color: black;
+
 }
