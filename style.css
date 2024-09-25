@@ -1,5 +1,10 @@
-h1 {
-    color: red;
-    display: inline;
-    background-color: black;
+.front-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    /* z-index: 2; */
+    box-sizing: content-box;
+
 }
