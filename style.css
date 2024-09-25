@@ -1,16 +1,11 @@
-<<<<<<< HEAD
 
-.para{
-     background-color:#d65db1;
-     color:#845ec2;
-  border: 3px solid black
-}
 h1 {
     color: red;
     display: inline;
     background-color: black;
-=======
-.front-image {
+
+}
+    .front-image {
     position: absolute;
     top: 0;
     left: 0;
@@ -18,6 +13,4 @@ h1 {
     bottom: 0;
     /* z-index: 2; */
     box-sizing: content-box;
->>>>>>> d82dbdb18a28f63e1ef7e1f0b2353e81845d4797
-
 }
