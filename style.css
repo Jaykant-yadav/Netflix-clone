@@ -1,16 +1,23 @@
-
-h1 {
-    color: red;
-    display: inline;
-    background-color: black;
-
+.backgroundimg{
+  height:630px;
+   width: 100%;
+  background-color:#000000;
+  background-image:url("assets/netflix.jpg");
+  background-size:cover;
+  margin :none;
 }
-    .front-image {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    /* z-index: 2; */
-    box-sizing: content-box;
+
+.logo{
+   width: 100px; 
+   height: 50px; 
+   color: #e50914;
+   font-family: sans-serif;
+   position:absolute;
+   
+   /* background-image:url("assets/Netflix_logo.jpg");
+   background-size:cover; */
+}
+
+nav{
+  display: inline-block;
 }
