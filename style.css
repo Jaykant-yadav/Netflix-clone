@@ -2,7 +2,7 @@
   height:630px;
    width: 100%;
   background-color:#000000;
-  background-image:url("assets/netflix.jpg");
+  background-image:url("assets/Image_Netflix.jpg");
   background-size:cover;
   margin :none;
 }
@@ -20,4 +20,28 @@
 
 nav{
   display: inline-block;
+}
+
+.langu{
+   width:auto;
+    right:100px;
+     top:50px; 
+      position: relative;
+      flex: auto;
+      flex-wrap: wrap;
+      display: inline-block;
+     
+}
+.sign{
+  width:auto;
+  position:absolute;
+  right:70px;
+   font-size:0.875rem;
+   min-height:2rem;
+   padding: 0.25rem;
+   background-color:rgb(229,9,20);
+   color:rgb(255,255,255);
+   margin :0;
+   display:inline-block;
+   cursor:pointer;
 }
